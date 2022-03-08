@@ -2,7 +2,6 @@
 <title> C语言 </title>
 </head>
 
-  
 # C语言
 
 ## 数据类型
