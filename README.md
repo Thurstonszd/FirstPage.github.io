@@ -1,7 +1,6 @@
-# This is my first page!
->For updating...
-# C语言
 
+
+# C语言
 
 ## 数据类型
 
