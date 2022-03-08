@@ -1,4 +1,4 @@
-<head> <title> C语言 </title> </head>
+<title> C语言 </title>
 
 # C语言
 
