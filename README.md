@@ -2,6 +2,8 @@
 <title> C语言 </title>
 </head>
 
+<!-- 通过Markdown编写网页内容 -->
+
 # C语言
 
 ## 数据类型
